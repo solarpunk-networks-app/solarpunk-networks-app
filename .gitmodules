@@ -1,0 +1,6 @@
+[submodule "haxewallet"]
+	path = haxewallet
+	url = git@github.com:haxewallet/haxewallet.git
+[submodule "chatclipse"]
+	path = chatclipse
+	url = git@github.com:chatclipse/chatclipse.git
